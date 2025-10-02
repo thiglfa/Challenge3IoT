@@ -4,6 +4,11 @@ Este projeto implementa uma solução IoT para monitoramento temperamental em te
 
 O propósito deste projeto é fornecer uma maneira de rastrear e monitorar mudanças ambientais nos pátios Mottu, assim auxiliando-os a saber a condição das motos e o pátio que se encontram.
 
+
+INTEGRANTES:
+Eduardo do Nascimento Barriviera - RM555309
+Thiago Lima de Freitas - RM556795
+Bruno centurion Fernandes - RM556531
 ---
 
 ## 📸 Visão Geral
