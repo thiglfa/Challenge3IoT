@@ -1,13 +1,15 @@
-# 🌱 Plataforma de Monitoramento Ambiental com Node-RED
+# Plataforma de Monitoramento Ambiental para pátios Mottu com Node-RED
 
-Este projeto implementa uma solução IoT para monitoramento ambiental em tempo real, utilizando sensores conectados a dispositivos ESP32/Arduino, com comunicação via MQTT e visualização em um dashboard Node-RED. A plataforma oferece alertas visuais e sonoros para condições críticas, gráficos históricos e indicadores LED virtuais.
+Este projeto implementa uma solução IoT para monitoramento temperamental em tempo real nos pátios da Mottu, utilizando sensores conectados a dispositivos ESP32/Arduino, com comunicação via MQTT e visualização em um dashboard Node-RED. A plataforma oferece alertas visuais e sonoros para condições críticas, gráficos históricos e indicadores LED virtuais.
+
+O propósito deste projeto é fornecer uma maneira de rastrear e monitorar mudanças ambientais nos pátios Mottu, assim auxiliando-os a saber a condição das motos e o pátio que se encontram.
 
 ---
 
 ## 📸 Visão Geral
 
 
-- Indicadores de temperatura, umidade e chuva
+- Indicadores de temperatura, umidade e chuva nos pátios
 - Alertas visuais (LEDs virtuais) e sonoros em tempo real
 - Gráficos de histórico por sensor
 - Dashboard responsivo e acessível
