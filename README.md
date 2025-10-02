@@ -6,11 +6,13 @@ O propósito deste projeto é fornecer uma maneira de rastrear e monitorar mudan
 
 
 INTEGRANTES:
+
 Eduardo do Nascimento Barriviera - RM555309
 
 Thiago Lima de Freitas - RM556795
 
 Bruno centurion Fernandes - RM556531
+
 ---
 
 ## 📸 Visão Geral
